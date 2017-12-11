@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CourseSelect.unity
+    guid: 9a3a636c2a452ef4287b68d352fc8096
+  - enabled: 1
+    path: Assets/Scenes/Hole 1.unity
+    guid: 45c6b23a19ca41e47a9ef7d42704a44d
+  - enabled: 1
+    path: Assets/Scenes/Hole 2.unity
+    guid: 84dc530870f088a49ab84f525b779684
+  - enabled: 1
+    path: Assets/Scenes/Hole 3.unity
+    guid: 7f82129a9cf0cbc46bbcf00195ab2ffa
+  - enabled: 1
+    path: Assets/Scenes/Hole 4.unity
+    guid: c87c8f770a074a1469c5a61190f68015
+  - enabled: 1
+    path: Assets/Scenes/Hole 5.unity
+    guid: 3078d963c846d824eb6a5e46fcbf2b17
+  - enabled: 1
+    path: Assets/Scenes/Hole 6.unity
+    guid: cbcec65dfebadf74e91108853e7c4488
+  - enabled: 1
+    path: Assets/Scenes/Hole 7.unity
+    guid: 052519aae8a295c4bbfcf7dd90194c00
+  - enabled: 0
+    path: Assets/Scenes/Test.unity
+    guid: 87d2e0dffc6416145be30e9844cadb7d

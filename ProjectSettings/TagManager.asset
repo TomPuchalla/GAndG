@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Sand
+  - Water
+  - Enemy
+  - Bouncy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Mouse
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3833378389
+    locked: 0
+  - name: Character
+    uniqueID: 4293058383
+    locked: 0
+  - name: Midground
+    uniqueID: 860019597
+    locked: 0
+  - name: Foreground
+    uniqueID: 663269323
+    locked: 0
+  - name: Mouse
+    uniqueID: 52611889
+    locked: 0
+  - name: UI
+    uniqueID: 2663311481
+    locked: 0
